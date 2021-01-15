@@ -1,11 +1,11 @@
 import React from "react";
-import ErrorApp from "./ErrorApp";
+import ProductApp from "./ProductApp";
 import "./styles.css";
 
 function App() {
   return (
     <div className="App">
-      <ErrorApp />
+      <ProductApp />
     </div>
   );
 }
